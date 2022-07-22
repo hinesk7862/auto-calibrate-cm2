@@ -1,5 +1,6 @@
-#Author: Kevin Hines
-#Emulate 07/12/2022
+# EMULATE
+# Author: Kevin Hines
+#Date: 07/12/2022
 import serial 
 import time
 from simple_pid import PID
